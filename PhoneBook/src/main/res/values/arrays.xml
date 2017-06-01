@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array  name="judge_local">
+        <item > 拦截一下地区</item>
+        <item > 只接听一下地区</item>
+    </string-array>
+</resources>

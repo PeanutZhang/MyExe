@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="red">#fd8d8d</color>
+    <color name="greed">#9cfda3</color>
+    <color name="blue">#8d9dfd</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blak">#000000</color>
+    <color name="gray">#DCDCDC</color>
+    <color name="light">#00000000</color>
+    <color name="yello">#FFFF00</color>
+    <color name="yell">#FF8C00</color>
+    <color name="wwhite">#FFFAFA</color>
+    
+</resources>

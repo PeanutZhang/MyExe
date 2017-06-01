@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray"
+     >
+         
+<TextView
+    android:id="@+id/city_quit"
+    android:layout_width="320dp"
+    android:layout_height="wrap_content"
+    android:background="#696969"
+    android:drawableLeft="@drawable/y5"
+    android:drawablePadding="25dp"
+    android:gravity="center_vertical"
+    android:textColor="@color/blak"
+    android:textSize="20sp"
+    android:onClick="quit"
+     />
+<LinearLayout 
+    android:layout_margin="7dp"
+    android:background="@color/wwhite"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <ListView 
+        android:id="@+id/city_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
+    
+
+</LinearLayout>

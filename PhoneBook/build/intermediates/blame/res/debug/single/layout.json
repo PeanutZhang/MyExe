@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\whilist.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\whilist.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\maininterface.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\maininterface.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\stranger_interface.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\stranger_interface.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\booklist.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\booklist.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\record_relate.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\record_relate.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\rulelist.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\rulelist.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\expendlist.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\expendlist.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\province.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\province.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\record_interface.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\record_interface.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\record_dialog.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\record_dialog.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\commite.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\commite.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\city.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\city.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\time_set.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\time_set.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\dialogpeoadd.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\dialogpeoadd.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\whilechilde.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\whilechilde.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\layout\\comment.xml"
+    }
+]

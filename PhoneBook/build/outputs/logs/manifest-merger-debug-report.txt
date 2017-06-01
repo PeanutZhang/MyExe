@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+		INJECTED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml
+application
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:11:5-72:19
+	android:label
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:13:9-37
+	android:theme
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:15:9-40
+activity#suda.terminater.interfac.Main
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:17:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:22:27-74
+activity#suda.terminater.interfac.HeiBai
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:26:20-66
+activity#suda.terminater.interfac.Record
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:27:9-68
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:27:20-66
+activity#suda.terminater.interfac.Rule
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:28:9-66
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:28:20-64
+activity#suda.terminater.heibai.CommiteAlter
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:30:9-71
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:30:19-69
+activity#suda.terminater.heibai.Diaaddwhile
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:31:9-71
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:31:20-69
+activity#suda.terminater.heibai.Whilechilde
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:32:11-35:15
+	android:theme
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:33:13-62
+activity#suda.terminater.heibai.Whilepeople
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:36:9-41:15
+	android:label
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:39:7-27
+	android:icon
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:40:7-35
+	android:theme
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:37:13-62
+activity#suda.terminater.heibai.Whilist
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:42:9-46:15
+	android:label
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:45:13-34
+	android:theme
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:43:13-58
+activity#suda.terminater.rule.Time_set
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:48:9-66
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:48:20-64
+activity#suda.terminater.rule.Stranger_set
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:49:9-70
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:49:20-68
+activity#suda.terminater.rule.Trule
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:50:9-63
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:50:20-61
+activity#suda.terminater.district.City
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:52:9-65
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:52:19-63
+activity#suda.terminater.district.Province
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:53:9-69
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:53:19-67
+receiver#suda.terminater.service.ReceivedSMS
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:55:10-59:20
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:55:20-70
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:56:13-58:28
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:57:16-80
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:57:24-78
+receiver#suda.terminater.service.PhoneBroadcastReceiver
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:61:10-67:20
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:61:20-81
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.NEW_OUTGOING_CALL+android.intent.action.PHONE_STATE
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:62:12-66:27
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:63:13-77
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:63:21-75
+action#android.intent.action.PHONE_STATE
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:64:13-71
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:64:21-69
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:65:13-75
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:65:21-72
+service#suda.terminater.service.Smsphnone
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:69:10-69
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:69:19-67
+service#suda.terminater.service.PhoneService
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:70:10-72
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:70:19-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:74:1-67
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:74:18-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:76:1-79
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:76:18-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:78:1-76
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:78:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:79:1-75
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:79:18-73
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:82:5-66
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:82:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:83:5-69
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:83:22-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:84:5-74
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:84:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:85:5-68
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:85:22-66
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:86:5-80
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:86:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:89:5-66
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:89:22-64
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:91:5-69
+	android:name
+		ADDED from D:\mywork\source\Umeng_about\umeng_android_social_sdk_6.4.2_custom\MyExe\PhoneBook\src\main\AndroidManifest.xml:91:23-67

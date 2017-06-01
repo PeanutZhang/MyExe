@@ -1,0 +1,4 @@
+#Fri May 12 10:42:04 CST 2017
+base.0=D\:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_e68a94247880bd519d00270e04f0639f65c0c856
+renamed.0=classes.dex
+file.0=D\:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_e68a94247880bd519d00270e04f0639f65c0c856\\classes.dex

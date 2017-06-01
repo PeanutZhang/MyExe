@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

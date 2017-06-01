@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\menu\\rule_menu.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\menu\\rule_menu.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\menu\\hbmenu.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\menu\\hbmenu.xml"
+    },
+    {
+        "merged": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\res\\merged\\debug\\menu\\record_menu.xml",
+        "source": "D:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\src\\main\\res\\menu\\record_menu.xml"
+    }
+]

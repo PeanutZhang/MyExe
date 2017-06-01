@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.zyh.myexe.MainActivity">
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.chaychan.viewlib.PowerfulEditText
+        android:id="@+id/pet_1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:funcType="canClear"
+
+        />
+
+
+    <com.chaychan.viewlib.PowerfulEditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/pet_2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:funcType="canWatchPwd"
+        android:hint="密码"
+        android:inputType="textPassword"
+        />
+
+
+    <com.chaychan.viewlib.PowerfulEditText
+        android:paddingLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/pet_3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:funcType="canWatchPwd"
+        android:drawableLeft="@mipmap/ic_launcher"
+        app:leftDrawableWidth="30dp"
+        app:leftDrawableHeight="30dp"
+        app:paddingStart="10dp"
+        android:background="@null"
+        android:paddingRight="12dp"
+        />
+    <com.chaychan.viewlib.PowerfulEditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/pet_4"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:funcType="canWatchPwd"
+        android:hint="密码"
+        android:inputType="textPassword"
+        />
+    <com.chaychan.viewlib.BankCardNumEditText
+        android:hint="BankCardNumEditText"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <com.chaychan.viewlib.expandabletextview.AlignTextView
+        android:hint="AlignTextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <com.chaychan.viewlib.expandabletextview.CBAlignTextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="CBAlignTextVie"
+        />
+    <com.chaychan.viewlib.expandabletextview.ExpandableTextView
+
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+    </com.chaychan.viewlib.expandabletextview.ExpandableTextView>
+
+    <com.chaychan.viewlib.piechartview.PieChartView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        />
+    <com.nex3z.flowlayout.FlowLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:childSpacing="auto"
+        app:childSpacingForLastRow="align"
+        app:rowSpacing="8dp">
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <Button
+        android:onClick="getContent"
+        android:text="获取edittext内容"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        
+        android:text="去下一页"
+        android:onClick="gotoRunningnumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="goPhoneBook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="去通讯录界面"
+        />
+        <Button
+            android:onClick="opntionPicker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="测试pickerView"
+            />
+        <Button
+            android:onClick="openwebview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="打开webview"
+            />
+    </com.nex3z.flowlayout.FlowLayout>
+</LinearLayout>
+</LinearLayout>

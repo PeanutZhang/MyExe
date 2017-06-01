@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="suda.terminater"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="17" />
+    <!-- 授予读联系人Contentprovider的权限 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- 在SD卡创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 在SD卡写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+
+    <!-- 联网功能 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 散光燈權限 -->
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/p13"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="suda.terminater.interfac.Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="suda.terminater.interfac.HeiBai" />
+        <activity android:name="suda.terminater.interfac.Record" />
+        <activity android:name="suda.terminater.interfac.Rule" />
+        <activity android:name="suda.terminater.heibai.CommiteAlter" />
+        <activity android:name="suda.terminater.heibai.Diaaddwhile" />
+        <activity
+            android:name="suda.terminater.heibai.Whilechilde"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="suda.terminater.heibai.Whilepeople"
+            android:icon="@drawable/p13"
+            android:label="名单添加"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="suda.terminater.heibai.Whilist"
+            android:label="白名单列表"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="suda.terminater.rule.Time_set" />
+        <activity android:name="suda.terminater.rule.Stranger_set" />
+        <activity android:name="suda.terminater.rule.Trule" />
+        <activity android:name="suda.terminater.district.City" />
+        <activity android:name="suda.terminater.district.Province" />
+
+        <receiver android:name="suda.terminater.service.ReceivedSMS" >
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="suda.terminater.service.PhoneBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="suda.terminater.service.Smsphnone" />
+        <service android:name="suda.terminater.service.PhoneService" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="suda.terminater.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

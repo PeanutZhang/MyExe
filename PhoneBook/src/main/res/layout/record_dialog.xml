@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:layout_margin="3dp"
+    android:background="#F0FFFF"
+    >
+    
+    <ImageView 
+        android:id="@+id/recordimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/y1"
+        />
+    <TextView 
+        android:id="@+id/recordtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/recordimage"
+        android:layout_toRightOf="@id/recordimage"
+        android:textColor="@color/blak"
+   
+        />
+    <LinearLayout 
+        android:id="@+id/recordlinear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/recordimage"
+        android:layout_alignParentRight="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_toRightOf="@id/recordtext"
+        >
+        <ImageButton 
+            android:id="@+id/record_Sms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/y3"
+            />
+        <ImageButton 
+            android:id="@+id/record_tel"
+             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/y2"
+            />
+        <ImageButton 
+            android:id="@+id/record_del"
+             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/y4"
+            />
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/record_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/recordlinear"
+        android:layout_alignLeft="@id/recordlinear"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        />
+ 
+</RelativeLayout>

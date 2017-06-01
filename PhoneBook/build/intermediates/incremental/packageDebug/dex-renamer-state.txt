@@ -1,0 +1,7 @@
+#Fri May 12 10:42:05 CST 2017
+base.0=D\:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a0b2aea6069739544976d12b94e21e02588748e7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0185ff0b4d88f2aafa9957c6bd834a6ac32558e4\\classes.dex
+base.1=D\:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0185ff0b4d88f2aafa9957c6bd834a6ac32558e4
+file.0=D\:\\mywork\\source\\Umeng_about\\umeng_android_social_sdk_6.4.2_custom\\MyExe\\PhoneBook\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a0b2aea6069739544976d12b94e21e02588748e7\\classes.dex

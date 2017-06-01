@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    >
+    
+<TextView
+    android:id="@+id/time_quit"
+    android:layout_width="320dp"
+    android:layout_height="wrap_content"
+    android:background="#696969"
+    android:drawableLeft="@drawable/y5"
+    android:drawablePadding="25dp"
+    android:gravity="center_vertical"
+    android:text="@string/stime_set"
+    android:textColor="@color/blak"
+    android:textSize="20sp"
+    android:onClick="quit"
+     />
+
+<LinearLayout 
+    android:orientation="vertical" 
+    android:background="@color/wwhite"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <RadioGroup 
+        android:id="@+id/timeRgroup"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:layout_marginTop="20dp"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="20dp"
+    >
+    <RadioButton 
+        android:id="@+id/time_day"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stime_day"
+         android:drawablePadding="40dp"
+          android:textSize="16sp"
+        />
+    <View android:layout_width="fill_parent"
+      android:layout_height="1dp"
+      android:background="@color/gray"
+    />
+    <RadioButton 
+        android:id="@+id/time_break"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stime_break"
+        android:drawablePadding="20dp"
+         android:textSize="16sp"
+        />
+</RadioGroup>
+
+<View android:layout_width="fill_parent"
+      android:layout_height="2dp"
+      android:background="@color/yell"
+      android:layout_marginTop="10dp"
+      android:layout_marginBottom="5dp"
+    />
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+    android:id="@+id/startLinear"
+    >
+    <TextView 
+        android:id="@+id/time_starttimee"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stime_starttime"
+        android:textSize="16sp"
+        android:textColor="@color/blak"
+         android:gravity="center_vertical"
+        />
+    <TextView 
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/time_starttime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        />
+</LinearLayout>
+<View android:layout_width="fill_parent"
+      android:layout_height="1dp"
+      android:background="@color/gray"
+    />
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     android:layout_marginBottom="5dp"
+     android:layout_marginTop="5dp"
+     android:id="@+id/stopLinear"
+    >
+    <TextView 
+        android:id="@+id/time_stoptimee"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stime_stoptime"
+        android:textSize="16sp"
+        android:textColor="@color/blak"
+         android:gravity="center_vertical"
+        />
+    <TextView 
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/time_stoptime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        />
+</LinearLayout>
+<View android:layout_width="fill_parent"
+      android:layout_height="1dp"
+      android:background="@color/gray"
+    />
+</LinearLayout>
+</LinearLayout>

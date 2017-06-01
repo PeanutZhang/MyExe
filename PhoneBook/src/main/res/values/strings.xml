@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">终结者</string>
+    <string name="action_settings">Settings</string>
+     
+    <string name="srecord_delete">清空拦截记录</string>
+    <string name="quit">退出</string>
+    <string name="input">请输入</string>
+     <string name="inputname">请输入联系人姓名</string>
+    <string name="inputnumber">请输联系人入号码</string>
+    <string name="mast">高级设置</string>
+    <string name="timeinstrall">时间设置</string>
+    <string name="smsinstall">回复短信设置</string>
+    <string name="smsfrequency">陌生号码多少次数后发送短信</string>
+    <string name="phonefrequency">陌生号码多少次数后接听</string>
+    <string name="timespan">拦截时间段设置</string>
+    
+     <string name="drop">退出</string>
+    <string name="drophei">清空黑名单</string>
+    <string name="dropbai">清空白名单</string>
+    <string name="addbook">更新通讯录</string>
+    <string name="stime_set">时间设置</string>
+    <string name="stime_day">全天拦截</string>
+    <string name="stime_break">指定拦截时间</string>
+    <string name="stime_starttime">起始时间</string>
+    <string name="stime_stoptime">结束时间</string>
+    <string name="sstranger_set">智能拦截陌生人</string>
+    
+    <string name="setting_set">拦截规则</string>
+    <string name="setting_local">输入地区</string>
+    <string name="setting_time">拦截时间</string>
+    <string name="setting_yunku">云库管理</string>
+    <string name="setting_manager_local">地区拦截管理</string>
+    
+    <string name="sprovince">选择地区</string>
+</resources>
